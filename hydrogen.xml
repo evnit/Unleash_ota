@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd"> 
+    <Stable> 
+        <hydrogen> 
+            <Filename>Unleash-OS-20180306-hydrogen</Filename> 
+            <RomUrl 
+                id="rom" 
+                title="" 
+                description="">http://qc4.androidfilehost.com/dl/-wEGKav2avQBc_NhgnjjKQ/1520527635/673956719939825256/Unleash-OS-20180306-hydrogen-Official.zip</RomUrl> 
+            <GAppsUrl 
+                id="gapps" 
+                title="" 
+                description="">https://sourceforge.net/projects/unofficial-opengapps-8-1/files/arm64/</GAppsUrl> 
+            <ChangelogUrl 
+                id="changelog" 
+                title="" 
+                description="">https://raw.githubusercontent.com/Unleash-OS/UnleashChangelog/oreo/CHANGELOG.mkdn</ChangelogUrl> 
+            <PaypalUrl 
+                id="donation" 
+                title="" 
+                description="">------</PaypalUrl> 
+        </hydrogen>
+    </Stable>
+</SlimOTA>
