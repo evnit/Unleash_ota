@@ -1,0 +1,20 @@
+[
+    {
+       "name": "Mi Max",
+       "brand": "xiaomi",
+       "codename": "hydrogen",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=244555",
+       "maintainer_name": "dungphp",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=2772810",
+       "xda_thread": "https://forum.xda-developers.com/mi-max/development/rom-aospextended-pixel-mod-rom-v5-2-t3749921"
+    },
+    {
+       "name": "Mi Max Prime",
+       "brand": "xiaomi",
+       "codename": "helium",
+       "afh_folder": "https://www.androidfilehost.com/?w=files&flid=244555",
+       "maintainer_name": "dungphp",
+       "maintainer_url": "https://forum.xda-developers.com/member.php?u=2772810",
+       "xda_thread": "https://forum.xda-developers.com/mi-max/development/rom-aospextended-pixel-mod-rom-v5-2-t3749921"
+    }
+]
